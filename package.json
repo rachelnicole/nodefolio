@@ -1,0 +1,30 @@
+{
+  "name": "nodefolio",
+  "version": "1.0.0",
+  "description": "A simple portfolio site to demo a Node.js applicatoin",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachelnicole/nodefolio.git"
+  },
+  "keywords": [
+    "simple",
+    "clean",
+    "portfolio",
+    "beginner"
+  ],
+  "author": "Rachel White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachelnicole/nodefolio/issues"
+  },
+  "homepage": "https://github.com/rachelnicole/nodefolio#readme"
+}

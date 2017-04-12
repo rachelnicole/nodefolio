@@ -2,7 +2,7 @@
   "name": "nodefolio",
   "version": "1.0.0",
   "description": "A simple portfolio site to demo a Node.js applicatoin",
-  "main": "index.js",
+  "main": "app.js",
   "dependencies": {
     "express": "^4.15.2",
     "path": "^0.12.7"

@@ -11,7 +11,7 @@ Make sure you have Node.js on your machine. If you don't, please install it. You
 
 Clone this repository to your local machine. 
 
-Navigate via your favorite cli (command line interface) to the folder this repo is cloned to, and run the application by typing `node index.js` and hitting enter.
+Navigate via your favorite cli (command line interface) to the folder this repo is cloned to, and run the application by typing `node app.js` and hitting enter.
 
 You will then be able to visit this site locally at http://localhost:3000
 

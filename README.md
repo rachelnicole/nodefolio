@@ -14,3 +14,7 @@ Clone this repository to your local machine.
 Navigate via your favorite cli (command line interface) to the folder this repo is cloned to, and run the application by typing `node index.js` and hitting enter.
 
 You will then be able to visit this site locally at http://localhost:3000
+
+## Demo
+
+A live version of the site can be viewed at http://nodefolio.azurewebsites.net
